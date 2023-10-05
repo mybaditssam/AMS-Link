@@ -1,2 +1,8 @@
 # AMS-Link
-Agency Management Software
+
+## Technologies Used:
+- Javascript
+- 
+
+Agency Management Software under Development by:
+Samuel Hernandez
